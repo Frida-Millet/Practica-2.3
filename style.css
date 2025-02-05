@@ -1,0 +1,52 @@
+.header {
+    background-color: #0000ff;
+    text-align: center;
+    padding: 10px;
+}
+
+.header h1{
+    color: yellow;
+    font-size: 36px;
+    margin: 0;
+    font-weight: 400;
+    font-family: "Potta One", serif;
+    src: url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+}
+
+.container{
+    display: flex;
+    margin: 10px;
+}
+
+.texto1{
+    background-color: #009688; 
+    color: white;
+    padding:10px;
+    width: 50vh;
+    height: 22vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.linea {
+    background-color:black;
+    color: yellow;
+    margin: 10px;
+}
+hr {
+    background-color: #0000ff;
+    padding: 9px;
+}
+
+.texto2{
+    font-family: "Coda", serif;
+    font-weight: 800;
+    font-style: normal;
+    src: url('https://fonts.googleapis.com/css2?family=Coda:wght@400;800&family=Potta+One&display=swap');
+}
+
+.texto3{
+    font-family: "Yusei Magic", serif;
+    font-weight: 800;
+    font-style: normal;
+    src:url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+}
